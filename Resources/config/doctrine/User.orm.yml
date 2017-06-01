@@ -1,0 +1,9 @@
+FlowFusion\UserBundle\Entity\User:
+    type:  entity
+    table: ff_user
+    id:
+        id:
+            type: integer
+            generator:
+                strategy: AUTO
+

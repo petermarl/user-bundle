@@ -1,0 +1,4 @@
+services:
+#    flow_fusion_user.example:
+#        class: FlowFusion\UserBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
